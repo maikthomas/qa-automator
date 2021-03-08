@@ -1,0 +1,15 @@
+{
+  "name": "qa-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<MichaelGeorge.Thomas@vonage.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chromedriver": "^88.0.0",
+    "geckodriver": "^1.22.1",
+    "selenium-webdriver": "^4.0.0-beta.1"
+  }
+}
